@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Tritintruong114
 - 👀 I’m interested in coding for passion and creative, design a solution to solve a problem is the way i learn.
 - 🌱 I’m currently learning at CoderSchool Bootcamp.
+- My stack is : ReactJS , TailwindCss , FireBase
 
 For the record, i'm trying my best everyday to become more and more improving the knowledge and become a Front-End Developer.
 
